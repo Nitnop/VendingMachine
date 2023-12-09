@@ -1,0 +1,13 @@
+Akira,Katsuhiro Otomo,Sci-fi/Action,1988,9
+Army of Darkness,Bruce Campbell,Horror/Fantasy,1992,9
+Buffy the Vampire Slayer,Kristy Swanson,Horror/Fantasy,1992,9
+Die Hard,Bruce Willis,Action,1988,9
+Edward Scissorhands,Johnny Depp,Fantasy/Romance,1990,9
+Fern Gully,Robin Williams,Fantacy,1992,9
+Ghost,Patrick Swayze,Romance/Fantasy,1990,5
+Groundhog Day,Bill Murray,Comedy/Romance,1993,9
+Hook,Robin Williams,Fantacy,1991,9
+Indiana Jones and the Last Crusade,Harrison Ford,action,1989,9
+Terminator,Arnold Schwarzenegger,Action,1984,3
+The Perfect Storm,George Clooney,Thriller,2000,9
+The hunt for red october,Sean Connery,Action,1985,8
